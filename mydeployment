@@ -1,0 +1,6 @@
+#! /bin/bash
+ 
+javac Evenodd
+java Evenodd
+
+cp index.html /var/www/html
